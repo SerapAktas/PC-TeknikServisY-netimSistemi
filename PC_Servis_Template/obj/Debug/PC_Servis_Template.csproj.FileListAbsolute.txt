@@ -10,3 +10,16 @@ C:\Users\pro_sabah\Desktop\projeeeeeeeee son\PC_Servis.Web\PC_Servis_Template\bi
 C:\Users\pro_sabah\Desktop\projeeeeeeeee son\PC_Servis.Web\PC_Servis_Template\obj\Debug\PC_Servis_Template.csprojResolveAssemblyReference.cache
 C:\Users\pro_sabah\Desktop\projeeeeeeeee son\PC_Servis.Web\PC_Servis_Template\obj\Debug\PC_Servis_Template.dll
 C:\Users\pro_sabah\Desktop\projeeeeeeeee son\PC_Servis.Web\PC_Servis_Template\obj\Debug\PC_Servis_Template.pdb
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis_Template\bin\PC_Servis_Template.dll.config
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis_Template\bin\PC_Servis_Template.dll
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis_Template\bin\PC_Servis_Template.pdb
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis_Template\bin\EntityFramework.dll
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis_Template\bin\EntityFramework.SqlServer.dll
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis_Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis_Template\bin\EntityFramework.xml
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis_Template\bin\EntityFramework.SqlServer.xml
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis_Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis_Template\obj\Debug\PC_Servis_Template.csprojResolveAssemblyReference.cache
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis_Template\obj\Debug\PC_Servis_Template.csproj.CoreCompileInputs.cache
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis_Template\obj\Debug\PC_Servis_Template.dll
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis_Template\obj\Debug\PC_Servis_Template.pdb

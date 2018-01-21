@@ -27,3 +27,37 @@ C:\Users\pro_sabah\Desktop\projeeeeeeeee son\PC_Servis.Web\PC_Servis.DAL\bin\Deb
 C:\Users\pro_sabah\Desktop\projeeeeeeeee son\PC_Servis.Web\PC_Servis.DAL\obj\Debug\PC_Servis.DAL.csprojResolveAssemblyReference.cache
 C:\Users\pro_sabah\Desktop\projeeeeeeeee son\PC_Servis.Web\PC_Servis.DAL\obj\Debug\PC_Servis.DAL.dll
 C:\Users\pro_sabah\Desktop\projeeeeeeeee son\PC_Servis.Web\PC_Servis.DAL\obj\Debug\PC_Servis.DAL.pdb
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\PC_Servis.DAL.dll.config
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\PC_Servis.DAL.dll
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\PC_Servis.DAL.pdb
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\EntityFramework.dll
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\Microsoft.Owin.dll
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\Owin.dll
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\PC_Servis.Entity.dll
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\PC_Servis.Entity.pdb
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\PC_Servis.Entity.dll.config
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\EntityFramework.xml
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\Microsoft.Owin.xml
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\obj\Debug\PC_Servis.DAL.csprojResolveAssemblyReference.cache
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\obj\Debug\PC_Servis.DAL.csproj.CoreCompileInputs.cache
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\obj\Debug\PC_Servis.DAL.dll
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\obj\Debug\PC_Servis.DAL.pdb
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\obj\Debug\PC_Servis.DAL.Migrations.a1.resources
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\obj\Debug\PC_Servis.DAL.csproj.GenerateResource.Cache
+C:\Users\sercinyo\Desktop\PC_Servis.Web\PC_Servis.DAL\obj\Debug\PC_Servis.DAL.Migrations.a2.resources

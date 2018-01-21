@@ -19,7 +19,7 @@ namespace PC_Servis.BLL.Repository
                 MyContext db = new MyContext();
                 db.Messages.Add(new Message()
                 {
-                    Level = -5,
+                    
                     SendBy = "46f0cc49-62d0-4ffc-9a96-af5f9a5da0ae",
                     SentTo = "46f0cc49-62d0-4ffc-9a96-af5f9a5da0ae"
                 });

@@ -74,7 +74,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\Ariza.cs" />
+    <Compile Include="Entities\ArizaRapor.cs" />
+    <Compile Include="Entities\Operatör.cs" />
+    <Compile Include="Entities\ArizaDurum.cs" />
+    <Compile Include="Entities\Fotograf.cs" />
     <Compile Include="Entities\Message.cs" />
+    <Compile Include="Entities\Teknisyen.cs" />
     <Compile Include="Enums\IdentityRoles.cs" />
     <Compile Include="IdentityModels\ApplicationRole.cs" />
     <Compile Include="IdentityModels\ApplicationUser.cs" />

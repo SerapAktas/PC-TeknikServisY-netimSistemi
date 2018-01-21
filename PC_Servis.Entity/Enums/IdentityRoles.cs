@@ -9,7 +9,9 @@ namespace PC_Servis.Entity.Enums
     public enum IdentityRoles : byte
     {
         Admin,
+        Passive,
         User,
-        Passive
+        Operator,
+        Teknisyen
     }
 }
